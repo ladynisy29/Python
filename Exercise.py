@@ -8,7 +8,7 @@ class Shape:
 
 class Circle(Shape):
     def computer_area(self, x):
-        return 3.14*self.x**2
+        return 3.14*self.x**3
   
     
 class Square(Shape):
